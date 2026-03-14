@@ -133,12 +133,12 @@ This project helped me understand:
 
 Pods running:
 
-(screenshot here)
+![Pods](screenshot/pods.png)
 
 Service created:
 
-(screenshot here)
+![Services](screenshot/services.png)
 
 Nginx running in browser:
 
-(screenshot here)
+![Website](screenshot/website.png)
