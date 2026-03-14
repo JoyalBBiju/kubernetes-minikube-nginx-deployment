@@ -127,15 +127,3 @@ This project helped me understand:
 * Exposing applications using Services
 * Scaling applications
 
----
-
-## Screenshots
-
-### Kubernetes Pods Running
-![Pods](screenshot/pods.png)
-
-### Kubernetes Service Created
-![Services](screenshot/services.png)
-
-### Nginx Application Running
-![Website](screenshot/website.png)
