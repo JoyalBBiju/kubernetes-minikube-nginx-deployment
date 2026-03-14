@@ -131,14 +131,11 @@ This project helped me understand:
 
 ## Screenshots
 
-Pods running:
-
+### Pods Running
 ![Pods](screenshot/pods.png)
 
-Service created:
-
+### Services
 ![Services](screenshot/services.png)
 
-Nginx running in browser:
-
+### Application Running
 ![Website](screenshot/website.png)
