@@ -131,11 +131,11 @@ This project helped me understand:
 
 ## Screenshots
 
-### Pods Running
+### Kubernetes Pods Running
 ![Pods](screenshot/pods.png)
 
-### Services
+### Kubernetes Service Created
 ![Services](screenshot/services.png)
 
-### Application Running
+### Nginx Application Running
 ![Website](screenshot/website.png)
